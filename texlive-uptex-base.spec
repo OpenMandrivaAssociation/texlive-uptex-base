@@ -1,6 +1,6 @@
 Name:		texlive-uptex-base
-Version:	64072
-Release:	2
+Version:	68298
+Release:	1
 Summary:	Plain TeX formats and documents for upTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uptex-base
