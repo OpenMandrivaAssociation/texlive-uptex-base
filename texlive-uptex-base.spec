@@ -3,7 +3,7 @@ Version:	68298
 Release:	1
 Summary:	Plain TeX formats and documents for upTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uptex-base
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/uptex-base
 License:	bsd3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/uptex-base.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/uptex-base.doc.r%{version}.tar.xz
