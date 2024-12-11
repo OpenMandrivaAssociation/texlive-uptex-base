@@ -1,5 +1,5 @@
 Name:		texlive-uptex-base
-Version:	68298
+Version:	72534
 Release:	1
 Summary:	Plain TeX formats and documents for upTeX
 Group:		Publishing
